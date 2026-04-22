@@ -1,0 +1,5 @@
+AWS_ACCESS_KEY_ID = "your-aws-access-key-id"
+AWS_SECRET_ACCESS_KEY = "your-aws-secret-access-key"
+
+DATABASE_USER = "your-database-username"
+DATABASE_PASSWORD = "your-database-password"
